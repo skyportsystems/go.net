@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/go.net (fetch)
+origin	git@github.com:skyportsystems/go.net (push)
+upstream	https://github.com/golang/net.git (fetch)
+upstream	https://github.com/golang/net.git (push)
